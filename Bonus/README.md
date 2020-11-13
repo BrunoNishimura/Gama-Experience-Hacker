@@ -1,22 +1,7 @@
 # Gama Experience [Hacker]
-Repositório com conteúdo das aulas do Gama Experience da stack Hacker
 
+<h2 align="center">3. Git</h2>
 
-<h2 align="center">
-  Anotações dos Módulos/Treinamentos
-</h2>
-
-## Índice das aulas
-
- ### [1. INTRODUÇÃO](https://github.com/BrunoNishimura/Gama-Experience-Hacker/tree/main/Introducao)
-- [1.1 - Objetivos do Curso] 👊 Done :heavy_check_mark:
-- [1.2 - Como começar?]👊 Done :heavy_check_mark:
-- [1.3 - Dicas] 👊 Done :heavy_check_mark:
- ### [2. LÓGICA DE PROGRAMAÇÃO]()
-- [2.1 - Algorítimos]❌
-- [2.2 - Variáveis e Operações]❌
-- [2.3 - Decisões]❌
-- [2.4 - Repetições]❌
 ### [3. Git]()
 - [3.1 - Versionamento: Principais Ferramentas]❌
 - [3.2 - Init Add Commit]❌
@@ -93,13 +78,3 @@ Repositório com conteúdo das aulas do Gama Experience da stack Hacker
 - [Turbinando seu Linkedin]❌
 - [Hackeando seu Networking]❌
 - [Como fazer um pitch]❌
-
-
-
-
-
-
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.

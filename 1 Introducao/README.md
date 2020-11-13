@@ -1,4 +1,17 @@
-Por que eu estou aqui?
+# Gama Experience [Hacker]
+
+
+
+<h2 align="center">1. INTRODUÇÃO</h2>
+
+ 
+- 1.1 - Objetivos do Curso
+
+- 1.2 - Como começar?
+
+- 1.3 - Dicas
+
+[Por que eu estou aqui?
 Atualmente neste mundo digital, dependem muito de profissionais que saibam desenvolver soluções de Software.
 
 Minha CARREIRA
