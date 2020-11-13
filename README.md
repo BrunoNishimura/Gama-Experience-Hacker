@@ -8,11 +8,11 @@ Repositório com conteúdo das aulas do Gama Experience da stack Hacker
 
 ## Índice das aulas
 
- ### [1. INTRODUÇÃO](https://github.com/BrunoNishimura/Gama-Experience-Hacker/tree/main/Introducao)
+ ### [1. Introdução](https://github.com/BrunoNishimura/Gama-Experience-Hacker/tree/main/Introducao)
 - 1.1 - Objetivos do Curso 👊 Done :heavy_check_mark:
 - 1.2 - Como começar?👊 Done :heavy_check_mark:
 - 1.3 - Dicas 👊 Done :heavy_check_mark:
- ### [2. LÓGICA DE PROGRAMAÇÃO](https://github.com/BrunoNishimura/Gama-Experience-Hacker/tree/main/2%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o)
+ ### [2. Lógica de Programação](https://github.com/BrunoNishimura/Gama-Experience-Hacker/tree/main/2%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o)
 - 2.1 - Algorítimos❌
 - 2.2 - Variáveis e Operações ❌
 - 2.3 - Decisões ❌
@@ -75,7 +75,7 @@ Repositório com conteúdo das aulas do Gama Experience da stack Hacker
 - 9.3 - Spread ❌
 - 9.4 - Desestruct e Match ❌
 - 9.5 - SPA, PWA e WebComponents ❌
-### [10. React](https://github.com/BrunoNishimura/Gama-Experience-Hacker/tree/main/9%20JavaScript%20Parte%20II)
+### [10. React](https://github.com/BrunoNishimura/Gama-Experience-Hacker/tree/main/10%20React)
 - 10.1 - Boas-Vindas ❌
 - 10.2 - Por que React? ❌
 - 10.3 - Preparando o Ambiente ❌
