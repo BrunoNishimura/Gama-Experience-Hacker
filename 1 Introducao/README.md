@@ -78,5 +78,18 @@ Dicas para dar aquela mudança no Mindset.
 Observação: Existe a parte humana, de conferir se esta tudo certo e funcionando do jeito que tinha que funcionar, mas a parte de contagem, gastos e faturas, somatória, conjunto de algo tudo isso dá para ser feito em um único clique.
 - Automatizem tarefas "chatas" de outras pessoas.
 
+- Para fazer o Front-end geralmente é utilizado o JavaScript (Vai rodar dentro do browser) e quando se quer colocar animações, mudar a folha de estilo, cor letras, usa-se o CSS. HTML e CSS são linguagens de formatação/apresentação das informações. 
+
+- Botões e lógica usa-se o JavaScript. Back-end tem Java, C#, Node.js (JavaScript porém rodando dentro de um serviço em uma outra máquina e ele conseguem se comunicar), Php, Ruby, Phythom, entre outros.
+
+- Banco de Dados, relacionais e não relacionais:
+bancos relacionais: MySQL, PostgreSQL, Oracle Database, Amazon Aurora, SQL Serve.
+
+bancos não relacionais: MongoDB, Cassandra, Redis, HBase, Amazon DynamoDB, Neo4j. (São bancos baseados em documentos, pois os dados não são tão estruturados quanto no relacional)
+
+- Falasse muito em infraestrutura em relação aos Dev(Development) Ops (Operação).
+
+equipes distintas com focos distintos, operando com um unico objetivo. Que é ter a aplicação funcionando.
+
 
 
