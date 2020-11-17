@@ -30,9 +30,11 @@ Estou passando por uma incrível transformação!
 
 ### Terceira Semana
 - Show me the leads! - Relatório Final (Grupo)
--Feedback
+- Feedback
 - Introdução Á Diversidade e Inclusão
 - Times Ágeis
+<!-- https://qulture.rocks/blog/como-a-spotify-organiza-seus-times-de-produto/ -->
+<!-- Squads; Tribo; Chapter; Guilda; -->
 - Lean Startup
 - Avaliação da Abertura
 - Videoaulas - Hackers Treinamento 1 - Continuação
