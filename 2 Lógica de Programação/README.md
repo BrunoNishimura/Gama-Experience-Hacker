@@ -4,34 +4,48 @@
 
 - 2.1 - Algorítimos
 - 2.2 - Variáveis e Operações
+INICIO
+    
+    DECLARE NOTA1, NOTA2, MEDIA
+    
+    LEIA (NOTA1)
+    LEIA (NOTA2)
+
+    MEDIA = (NOTA1 + NOTA2) / 2
+
+    ESCREVA ("A NOTA FINAL VALE")
+    ESCREVA (MEDIA)
+
+FIM
+
+Obs: Sempre temos que informar a máquina do que ela deve fazer.
+
 - 2.3 - Decisões
+
+ 
 - 2.4 - Repetições
+INICIO
+    DECLARE TAB, NUMERO, RESULTADO
 
-# Exemplo de formulário para captura de Leads do assignment Show me the Leads
+    LEIA (TAB)
+    NUMERO = 0
 
-## Resumo
+    ENQUANTO(NUMERO <= 10>) FACA
+        RESULTADO = NUMERO * TAB
+        ESCREVA(RESULTADO)
+        NUMERO = NUMERO + 1
+    FIM-ENQUANTO
+FIM
 
-- Você receberá a URL exclusiva de sua equipe
-- O Formulário deverá executar um POST nessa URL
-- Deverão ser enviados name e email
-- A validação desses dados deverá ser feita no próprio formulário HTML (Detalhes abaixo)
-- Você poderá enviar o parametro redirectTo com um input hidden para direcionar o usuário para uma outra página após preenchimento
-- Você poderá enviar o parametro debugMode com valor 'true' para testar o funcionamento sem salvar seus testes
-
-## Configurando o formulário
-
-Utilizando as propriedades method e action vamos configurar a maneira que o formulário envia os dados.
-
-#### METHOD
-
-Essa propriedade indica qual método será colocado no cabeçalho da requisição, nesse caso vamos colocar POST pois estamos criando um registro em nosso backend. Mais informações em https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
-
-#### ACTION
-
-Essa propriedade indica para qual URL os dados serão enviados, esse dado será entregue a vocês assim que o assignmento começar.
-
-
-```html
-<form method="POST" action="URL do seu time">
-</form>
-```
+TAB NUMERO RESULTADO       TELA
+8      10      40            0
+                             8
+                             16
+                             24
+                             32
+                             40
+                             48
+                             56
+                             64
+                             72
+                             80
