@@ -19,3 +19,4 @@
 PUSH para o GitHub
 - Abra a página do seu projeto no Github e veja oque aconteceu
 
+Resposta: Gama Experience, não é um curso. Como o próprio nome diz é uma experiência.

@@ -3,14 +3,14 @@
 
 
 <h2 align="center">1. INTRODUÇÃO</h2>
-Resumo e anotações da introdução do curso.
+
  
-- ### 1.1 - Objetivos do Curso
+## 1.1 - Objetivos do Curso 
 
 Por que eu estou aqui?
 Atualmente neste mundo digital, dependem muito de profissionais que saibam desenvolver soluções de Software.
 
--> Minha CARREIRA
+<b>Minha CARREIRA</b>
 
 Não é só mudar de emprego, mas sim mudar de carreira! Isso exige uma mudança de postura. 
 
@@ -58,7 +58,7 @@ Ferramentas Disponíveis:
 - Testes: São fundamentais para garantir qualidade, garantir que o software realmente funciona,
 - Integração de diversos sistemas: Exemplo é fazer um site de compras interagir com os sistema de pagamento de diferentes banco de diversos clientes. Tudo isso tem que funcionar em harmonia.   
 
-- 1.2 - Como começar?
+## 1.2 - Como começar?
 Entender que você precisa escrever o seu primeiro programa - logo você precisa de um editor de textos.
 
 Quando são utizadas as LINGUAGENS (JavaScript, Java, C, C#, entre outras linguagens), torna-se necessário
@@ -68,7 +68,7 @@ FERRAMENTAS MAIS ROBUSTAS E INTEGRADAS (IDE - INTEGRATED DEVELOPMENT ENVIRONMENT
 Exemplos de IDEs: Visual Studio, Eclipse, Netbeans, Intellij, entre outros.
 Cada módulo, cada linguagem, cada sistema pode adotar umas dessas ferramentas, durante a sua construção/desenvolvimento a EQUIPE que quer desenvolver este sistema escolhe qual ferramenta irá adotar. Não existe o melhor ou pior, mas sim existe aquilo que atende melhor a sua necessidade daquele momento. É uma questão de costume, adaptação e preferência. 
 
-- 1.3 - Dicas
+## 1.3 - Dicas
 Dicas para dar aquela mudança no Mindset. 
 - Você esta iniciando uma nova carreira, esta entrando para área da tecnologia. E isso irá exigir muita DEDICAÇÃO e muito ESTUDO ETERNO! 
 - Existe técnicas de estudo para estudar sob demanda, mas antes de tudo começar caminhando.
