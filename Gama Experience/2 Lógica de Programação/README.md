@@ -11,10 +11,10 @@
 - <b>2.1 - Algorítimos</b>
 <p>Algoritmo é uma sequência finita de passos (Instruções/Comandos) ordenados, cujo objetivo é a resolução de um problema através da transformação da informação (dados);</p>
 <p>Entender que as instruções podem ser executadas de forma REPETITIVA e também pode haver alternativas de instruções</p>
-- <b>2.2 - Variáveis e Operações</b><br>
-<b>Operações Aritméticas: + - * / %</b><br>
-<b>Operações Relacionais:</b> > >= < <= == !><br>
-<b>Operações Lógicas:</b> AND(&&) OR(||) NOT(!) <br>
+- <b>2.2 - Variáveis e Operações</b><br/>
+<b>Operações Aritméticas: + - * / %</b><br/>
+<b>Operações Relacionais:</b> > >= < <= == !><br/>
+<b>Operações Lógicas:</b> AND(&&) OR(||) NOT(!) <br/>
 
 - <b>2.3 - Decisões</b><br>
 <p>Indentação: Afastar o texto da sua margem para te ajudar na orientação visual. Organize os seus códigos!</p>
