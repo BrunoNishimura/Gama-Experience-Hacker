@@ -1,0 +1,46 @@
+body {
+    background-color: darkgreen;
+}
+
+.container {
+    background-color: darkseagreen;
+}
+
+.container-fluid{
+    background-color: rosybrown;    
+}
+
+h3 {
+    text-align: center;    
+}
+
+#logoLoja {
+    width: 100%;
+}
+
+#imagemLogo{
+    margin-bottom: 30px;
+}
+
+#tituloDestaques {
+    margin-bottom: 30px;
+}
+
+h5 {
+    text-align: center;
+}
+
+h6 {
+    text-align: center;
+}
+
+#footer {
+    padding-top: 50px;
+    background-color: darkgrey;
+    color: white;
+}
+
+#receba{
+    /* color: white; */
+}
+
